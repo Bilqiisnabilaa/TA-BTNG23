@@ -1,0 +1,15 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-light{
+    background-color: #f5a5b5 !important;
+}
+
+.btn-light{
+    background-color: #f5a5b5 !important;
+}
+
+.text-light{
+    text-decoration-color: #f5a5b5 !important;
+}
